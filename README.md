@@ -107,7 +107,7 @@ Using these models and learnings to later be implemented in future image classif
 
 ## For More Information
 
-Please review my full technical analysis in [Notebook](https://github.com/SamuelRahwa/Image-Classification-with-Deep-Learning/blob/main/Modeling/Transfer%20Learning%20CNN%20Model.ipynb) or my nontechnical analysis in [presentation](https://github.com/SamuelRahwa/Image-Classification-with-Deep-Learning/blob/main/Image-Classification-with-Deep-Learning.pdf).
+Please review my full technical analysis in [Notebook](https://github.com/reynoso811/Image-Classification-Pneumonia-X-rays-/blob/main/Phase_04_MLP_CNN_talos.ipynb) or my nontechnical analysis in [presentation](https://github.com/SamuelRahwa/Image-Classification-with-Deep-Learning/blob/main/Image-Classification-with-Deep-Learning.pdf).
 
 For any additional questions, please contact **Robert reynoso at robert@birdstop.io**
 
