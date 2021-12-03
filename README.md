@@ -1,4 +1,6 @@
-# Image-Classification-Pneumonia-X-rays-
+#![xray](./imgs/Aviation-Safety.png)
+
+# Image- Classification (Pneumonia-X-rays)
 Phase 04 project Image Classification with Deep Learning 
 # Detecting Pneumonia in Chest X-Rays
 
