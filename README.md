@@ -1,4 +1,4 @@
-![xray](Screen Shot 2021-12-03 at 10.48.51 AM.png)
+!(Screen Shot 2021-12-03 at 10.48.51 AM.png)
 
 # Image- Classification (Pneumonia-X-rays)
 Phase 04 project Image Classification with Deep Learning 
