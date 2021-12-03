@@ -72,15 +72,8 @@ Using these models and learnings to later be implemented in future image classif
 * Pre-trained Model (VGG16):
     - The best accuracy from the Transfer Learning CNN Model was about 94%:
 
-        - The confusion matrix shows that it is mostly predicting that there is pneumonia, when pneumonia is actually present 
-          in the X-Ray.
-        - After 18 Epochs, early stopping ended the model from continually running.
-        - We were able to improve the binary accuracy with use of the model and tuning methods. 
-            -VGG16 Pretrained Model, Early stopping, dropouts and using a different optimizer)
-        - The model almost reaches perfection on the training data, while the testing data fails to improve beyond Epoch 18.
-        - We still see the instability within the loss and accuracy curves for the valdiation data. We never see both curves
-          smooth out and stabilize like the training data.
-        - My recommendation would be to use this as the model for initial insurance verification system.
+        - This model was saved and used to make predictions on our validation data
+        - This was done due to the high accuracy of this model
 
 
 * Talos Tuned CNN Model:
