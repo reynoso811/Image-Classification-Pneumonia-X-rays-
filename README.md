@@ -25,7 +25,7 @@ Using these models and learnings to later be implemented in future image classif
 
 
 ## EDA (Exploratory Data Analysis)
-
+![EDA](https://github.com/reynoso811/Image-Classification-Pneumonia-X-rays-/blob/main/Screen%20Shot%202021-12-02%20at%2010.47.49%20AM.png)
 * Data Exploration using Pandas Profling
 
 * Distribution of Images
