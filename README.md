@@ -44,6 +44,7 @@ Using these models and learnings to later be implemented in future image classif
 
 
 ## Models
+![Test](./Screenshot from 2021-12-06 20-53-58.png)
 
 * 5 part iterative modeling process with results: 
 
