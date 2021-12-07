@@ -2,7 +2,7 @@
 # Image- Classification (Pneumonia-X-rays)
 Phase 04 project Image Classification with Deep Learning 
 # Detecting Pneumonia in Chest X-Rays
-
+![xray](https://github.com/reynoso811/Image-Classification-Pneumonia-X-rays-/blob/main/Screen%20Shot%202021-12-02%20at%2010.51.08%20AM.png)
 
 **Author**: Robert Reynoso
 
