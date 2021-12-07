@@ -44,7 +44,7 @@ Using these models and learnings to later be implemented in future image classif
 
 
 ## Models
-![Test](./main/Screenshot from 2021-12-06 20-53-58.png)
+![Test](https://github.com/reynoso811/Image-Classification-Pneumonia-X-rays-/blob/main/Screenshot%20from%202021-12-06%2020-53-58.png)
 
 * 5 part iterative modeling process with results: 
 
